@@ -3,3 +3,5 @@ fixes another bug
 one more bug fixes
 fourth bug fixed 
 bug fifth
+
+another fix mode for pink mode
