@@ -5,3 +5,4 @@ fourth bug fixed
 bug fifth
 
 another fix mode for pink mode
+add fix messgae for purple mode
